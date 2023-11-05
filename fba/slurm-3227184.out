@@ -1,0 +1,42 @@
+SLURM_CHECKPOINT_IMAGE_DIR=/data/snapdragon/xux/Projects/Ecoli_FBA/Ecoli2011/fba
+SLURM_CLUSTER_NAME=cbrc
+SLURM_CPUS_ON_NODE=1
+SLURMD_NODENAME=smb-hp050302
+SLURM_GTIDS=0
+SLURM_JOB_CPUS_PER_NODE=1
+SLURM_JOB_ID=3227184
+SLURM_JOBID=3227184
+SLURM_JOB_NAME=FBA_test
+SLURM_JOB_NODELIST=smb-hp050302
+SLURM_JOB_NUM_NODES=1
+SLURM_JOB_PARTITION=snapdragon-default
+SLURM_JOB_UID=129052
+SLURM_JOB_USER=xux
+SLURM_LOCALID=0
+SLURM_MEM_PER_CPU=2048
+SLURM_NNODES=1
+SLURM_NODE_ALIASES=(null)
+SLURM_NODEID=0
+SLURM_NODELIST=smb-hp050302
+SLURM_NPROCS=1
+SLURM_NTASKS=1
+SLURM_PRIO_PROCESS=0
+SLURM_PROCID=0
+SLURM_ROOT=/cbrc/slurm/current
+SLURM_SUBMIT_DIR=/data/snapdragon/xux/Projects/Ecoli_FBA/Ecoli2011/fba
+SLURM_SUBMIT_HOST=dlogin-00
+SLURM_TASK_PID=17050
+SLURM_TASKS_PER_NODE=1
+SLURM_TOPOLOGY_ADDR=cbrc-private-core.smc-hp05-03-top.smc-hp05-03-up...smc-hp05-03.smb-hp050302
+SLURM_TOPOLOGY_ADDR_PATTERN=switch.switch.switch.switch.switch.switch.node
+1. read sbml model ...
+
+2. Modify module to suit BW25113 and culture ...
+
+3. Knockout gene to reactions ...
+
+5. fba analysis ...
+
+
+My hostname is: smb-hp050302
+
