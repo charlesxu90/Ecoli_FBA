@@ -1,0 +1,243 @@
+---Program	monitor.pl	starts --> Mon May 11 10:57:12 2015
+python rand_sampling.py 4 25000 sampling.out1
+python rand_sampling.py 4 25000 sampling.out2
+python rand_sampling.py 4 25000 sampling.out3
+python rand_sampling.py 4 25000 sampling.out4
+python rand_sampling.py 4 25000 sampling.out5
+python rand_sampling.py 4 25000 sampling.out6
+python rand_sampling.py 4 25000 sampling.out7
+python rand_sampling.py 4 25000 sampling.out8
+python rand_sampling.py 4 25000 sampling.out9
+python rand_sampling.py 4 25000 sampling.out10
+python rand_sampling.py 4 25000 sampling.out11
+python rand_sampling.py 4 25000 sampling.out12
+python rand_sampling.py 4 25000 sampling.out13
+python rand_sampling.py 4 25000 sampling.out14
+python rand_sampling.py 4 25000 sampling.out15
+python rand_sampling.py 4 25000 sampling.out16
+python rand_sampling.py 4 25000 sampling.out17
+python rand_sampling.py 4 25000 sampling.out18
+python rand_sampling.py 4 25000 sampling.out19
+python rand_sampling.py 4 25000 sampling.out20
+python rand_sampling.py 4 25000 sampling.out21
+python rand_sampling.py 4 25000 sampling.out22
+python rand_sampling.py 4 25000 sampling.out23
+python rand_sampling.py 4 25000 sampling.out24
+python rand_sampling.py 4 25000 sampling.out25
+python rand_sampling.py 4 25000 sampling.out26
+python rand_sampling.py 4 25000 sampling.out27
+python rand_sampling.py 4 25000 sampling.out28
+python rand_sampling.py 4 25000 sampling.out29
+python rand_sampling.py 4 25000 sampling.out30
+python rand_sampling.py 4 25000 sampling.out31
+python rand_sampling.py 4 25000 sampling.out32
+python rand_sampling.py 4 25000 sampling.out33
+python rand_sampling.py 4 25000 sampling.out34
+python rand_sampling.py 4 25000 sampling.out35
+python rand_sampling.py 4 25000 sampling.out36
+python rand_sampling.py 4 25000 sampling.out37
+python rand_sampling.py 4 25000 sampling.out38
+python rand_sampling.py 4 25000 sampling.out39
+python rand_sampling.py 4 25000 sampling.out40
+#calling <python rand_sampling.py 4 25000 sampling.out1
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out2
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out3
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out4
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out5
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out6
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out7
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out8
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out9
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out10
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out11
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out12
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out13
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out14
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out15
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out16
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out17
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out18
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out19
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out20
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out21
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out22
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out23
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out24
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out25
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out26
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out27
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out28
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out29
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out30
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out31
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out32
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out33
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out34
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out35
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out36
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out37
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out38
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out39
+> ...
+#calling <python rand_sampling.py 4 25000 sampling.out40
+> ...
+Reading file finished. Time 0.0982921123505
+Sampling finished. Time 628.803199053
+#process 10194 finished!
+Reading file finished. Time 0.106962203979
+Sampling finished. Time 629.149934053
+#process 10269 finished!
+Reading file finished. Time 0.109172821045
+Sampling finished. Time 629.80715704
+#process 10255 finished!
+Reading file finished. Time 0.096607208252
+Sampling finished. Time 631.509928226
+#process 10202 finished!
+Reading file finished. Time 0.103981018066
+Sampling finished. Time 632.133738041
+#process 10321 finished!
+Reading file finished. Time 0.108697891235
+Sampling finished. Time 632.149132967
+#process 10286 finished!
+Reading file finished. Time 0.0983951091766
+Sampling finished. Time 632.255886078
+#process 10193 finished!
+Reading file finished. Time 0.106192111969
+Sampling finished. Time 632.277703047
+#process 10317 finished!
+Reading file finished. Time 0.109225988388
+Sampling finished. Time 632.448300123
+#process 10247 finished!
+Reading file finished. Time 0.0973620414734
+Sampling finished. Time 632.55648303
+#process 10200 finished!
+Reading file finished. Time 0.109399080276
+Sampling finished. Time 632.560667992
+#process 10275 finished!
+Reading file finished. Time 0.108271837234
+Sampling finished. Time 632.74753499
+#process 10289 finished!
+Reading file finished. Time 0.103915929794
+Sampling finished. Time 633.242326975
+#process 10207 finished!
+Reading file finished. Time 0.106153011322
+Sampling finished. Time 633.322839022
+#process 10295 finished!
+Reading file finished. Time 0.106987953186
+Sampling finished. Time 633.714836121
+#process 10239 finished!
+Reading file finished. Time 0.107645988464
+Sampling finished. Time 633.867278814
+#process 10222 finished!
+Reading file finished. Time 0.104616165161
+Sampling finished. Time 634.088585138
+#process 10232 finished!
+Reading file finished. Time 0.0994589328766
+Sampling finished. Time 634.19776392
+#process 10281 finished!
+Reading file finished. Time 0.0988450050354
+Sampling finished. Time 634.611936092
+#process 10204 finished!
+Reading file finished. Time 0.108577013016
+Sampling finished. Time 635.369086027
+#process 10253 finished!
+Reading file finished. Time 0.110054969788
+Sampling finished. Time 635.439945936
+#process 10313 finished!
+Reading file finished. Time 0.10933303833
+Sampling finished. Time 635.462913036
+#process 10230 finished!
+Reading file finished. Time 0.102309942245
+Sampling finished. Time 635.549880981
+#process 10300 finished!
+Reading file finished. Time 0.110362052917
+Sampling finished. Time 635.744530201
+#process 10235 finished!
+Reading file finished. Time 0.10732293129
+Sampling finished. Time 636.518008947
+#process 10322 finished!
+Reading file finished. Time 0.107903003693
+Sampling finished. Time 636.547299147
+#process 10260 finished!
+Reading file finished. Time 0.105694055557
+Sampling finished. Time 637.088150978
+#process 10210 finished!
+Reading file finished. Time 0.105302095413
+Sampling finished. Time 637.26641798
+#process 10217 finished!
+Reading file finished. Time 0.106861114502
+Sampling finished. Time 637.454323053
+#process 10227 finished!
+Reading file finished. Time 0.105032920837
+Sampling finished. Time 638.27915597
+#process 10283 finished!
+Reading file finished. Time 0.106298923492
+Sampling finished. Time 638.464670897
+#process 10262 finished!
+Reading file finished. Time 0.107621908188
+Sampling finished. Time 638.920098782
+#process 10233 finished!
+Reading file finished. Time 0.0978899002075
+Sampling finished. Time 638.963825941
+#process 10196 finished!
+Reading file finished. Time 0.106209993362
+Sampling finished. Time 639.740859032
+#process 10305 finished!
+Reading file finished. Time 0.098788022995
+Sampling finished. Time 639.885560989
+#process 10198 finished!
+Reading file finished. Time 0.103867053986
+Sampling finished. Time 639.885700941
+#process 10309 finished!
+Reading file finished. Time 0.10600399971
+Sampling finished. Time 640.050338984
+#process 10272 finished!
+Reading file finished. Time 0.106148004532
+Sampling finished. Time 640.061208963
+#process 10327 finished!
+Reading file finished. Time 0.10302901268
+Sampling finished. Time 640.214308023
+#process 10250 finished!
+Reading file finished. Time 0.107903957367
+Sampling finished. Time 641.219580889
+#process 10215 finished!
+#done!!!
+---Program	monitor.pl	ends  --> Mon May 11 11:07:54 2015

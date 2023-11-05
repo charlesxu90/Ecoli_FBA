@@ -1,0 +1,28 @@
+cold condition:
+essential
+38
+p-value for conditional essential genes greater than 38 is: 0.003665
+dispensable
+73
+p-value for conditional dispensable genes greater than 73 is: 3.2e-05
+heat condition:
+essential
+63
+p-value for conditional essential genes greater than 63 is: 2e-06
+dispensable
+38
+p-value for conditional dispensable genes greater than 38 is: 1e-05
+low pH condition:
+essential
+42
+p-value for conditional essential genes greater than 42 is: 1.2e-05
+dispensable
+4
+p-value for conditional dispensable genes greater than 4 is: 0.164704
+high pH condition:
+essential
+30
+p-value for conditional essential genes greater than 30 is: 8.4e-05
+dispensable
+25
+p-value for conditional dispensable genes greater than 25 is: 0.000109
